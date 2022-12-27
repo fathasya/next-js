@@ -1,0 +1,46 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "price": "999",
+      "category": "Food",
+      "img": "https://th.bing.com/th/id/R.39d45aa61ce17e003144ce2e1cedefb7?rik=3Rn8%2fwlvPSJ0DA&riu=http%3a%2f%2fwww.theluxuryspot.com%2fwp-content%2fuploads%2f2016%2f05%2fmaxresdefault.jpg&ehk=%2fQLYHoqaDpvlSPLLucgX%2b5aTuH06Qo2zlcBM0kehX00%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "price": "899",
+      "category": "Clothes",
+      "img": "https://th.bing.com/th/id/OIP.XDmJ34vEbBo40AZSKmC55wHaHa?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "price": "255",
+      "category": "Electronic",
+      "img": "https://th.bing.com/th/id/OIP.LvR0WDB3DRRaGRwqPsiEIQHaE8?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 4,
+      "name": "Product 4",
+      "price": "699",
+      "category": "Clothes",
+      "img": "https://th.bing.com/th/id/OIP.aZaNwfBZh1gqvaHmmAi86wHaJQ?pid=ImgDet&w=2122&h=2653&rs=1"
+    },
+    {
+      "id": 5,
+      "name": "Product 5",
+      "price": "646",
+      "category": "Food",
+      "img": "https://th.bing.com/th/id/OIP.4L8ZNc4gu1pTED2VTBRvLQHaFx?pid=ImgDet&rs=1"
+    },
+    {
+      "name": "Product 6",
+      "price": "100",
+      "img": "https://www.gizbot.com/img/2015/07/13-1436776015-infocus-planning-smartphone-manufacturing-hub-india4.jpg",
+      "category": "electronic",
+      "id": "6"
+    }
+  ]
+}
